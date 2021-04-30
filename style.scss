@@ -1,0 +1,66 @@
+.tryRed{
+	background-color: red;
+}
+.tryGreen{
+	background-color: Green;
+}
+.tryBlue{
+	background-color: blue;
+}
+.tryPurp{
+	background-color: purple;
+}
+
+
+$examColor1: #fbb03b;
+$examColor2: #39b69f;
+
+body{
+	background-color: $examColor1;
+}
+
+img{
+	height: 10vh;
+}
+
+.head{
+	height: 15vh;
+	
+}
+
+.xWidth{
+width: 50vw;
+}
+
+.xBold{
+ font-weight: bolder;
+}
+
+
+.xColor2{
+	color: $examColor2
+	
+}
+
+input{
+	height: 8vh;
+	border: 2px solid $examColor2
+}
+
+.buttonClass{
+	width: 100%;
+	button{
+		background-color: $examColor2;
+		height: 8vh;
+		width: 11vw;
+	}
+}
+
+.xMenuIcon{
+
+}
+
+@media screen and(min-width: 800px) and (max-width: 992px) {
+	
+	
+}

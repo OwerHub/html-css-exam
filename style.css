@@ -1,0 +1,53 @@
+.tryRed {
+  background-color: red;
+}
+
+.tryGreen {
+  background-color: Green;
+}
+
+.tryBlue {
+  background-color: blue;
+}
+
+.tryPurp {
+  background-color: purple;
+}
+
+body {
+  background-color: #fbb03b;
+}
+
+img {
+  height: 10vh;
+}
+
+.head {
+  height: 15vh;
+}
+
+.xWidth {
+  width: 50vw;
+}
+
+.xBold {
+  font-weight: bolder;
+}
+
+.xColor2 {
+  color: #39b69f;
+}
+
+input {
+  height: 8vh;
+  border: 2px solid #39b69f;
+}
+
+.buttonClass {
+  width: 100%;
+}
+.buttonClass button {
+  background-color: #39b69f;
+  height: 8vh;
+  width: 11vw;
+}
